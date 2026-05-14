@@ -3,6 +3,6 @@ public class MyDemo {
         String bac="First String";
         String pqr="Second String";
         String abc=bac+pqr;
-        System.out.println(abc);
+        System.out.println(abc)
     }
 }
